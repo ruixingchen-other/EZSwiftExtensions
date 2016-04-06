@@ -43,6 +43,9 @@ public enum FontName: String {
     case GillSans = "GillSans"
     case SanFranciscoDisplay = "SanFranciscoDisplay"
     case Seravek = "Seravek"
+    case PingFangSC = "PingFangSC"//iOS 9.0
+    case PingFangTC = "PingFangTC"//iOS 9.0
+    case PingFangHK = "PingfangHK"//iOS 9.0
 }
 
 extension UIFont {
